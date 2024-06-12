@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Geourbe Geotecnologia**
  
- 🌱 I’m currently learning **React, Typescript**
+ 🌱 I’m currently learning **NodeJS**
 
  </div>
  
