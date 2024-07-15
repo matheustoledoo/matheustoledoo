@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Geourbe Geotecnologia**
- 
  🌱 I’m currently learning **NodeJS**
 
  </div>
@@ -35,7 +33,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,javascript,typescript,java,arduino,mysql,mongodb" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,firebase,git,github,postman,vite,wordpress,express-handlebars,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,firebase,git,github,postman,vite,wordpress,sequelize,npm" /><br>
 </div>
 
 <br/>
