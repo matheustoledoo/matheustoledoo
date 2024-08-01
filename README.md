@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **NodeJS**
+ 🌱 I’m currently learning **Docker**
 
  </div>
  
