@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **AWS**
 
  </div>
  
