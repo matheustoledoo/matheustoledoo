@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **Java/AWS**
 
  </div>
  
@@ -28,9 +28,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,javascript,typescript,arduino,mysql," />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,javascript,typescript,arduino,mysql,java" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,mongodb,git,github,postman,wordpress,sequelize,python,panda" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,mongodb,git,github,postman,wordpress,sequelize,python,panda,springboot" /><br>
 </div>
 
 <br/>
